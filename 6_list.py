@@ -1,3 +1,8 @@
+# lets create an empty list
+empty_list = []
+print(empty_list)
+print(type(empty_list))
+
 weights = [50,60,70,80,90]
 print(weights)
 

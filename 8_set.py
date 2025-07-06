@@ -122,3 +122,9 @@ print(seta >= setb)
 
 # > checks for proper superset
 print(seta > setb)
+
+
+elem = {1,2,3,4}
+elem.add(5)
+elem.remove(3)
+print(sum(elem))
